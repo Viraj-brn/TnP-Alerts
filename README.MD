@@ -1,87 +1,74 @@
-The Master Prompt
-Context & Objective
-Act as a senior software engineer. I need to build an automated web scraper and notification system for my college's Training & Placement (TnP) portal. The system will log into the portal, scan the "Recent Jobs" table, identify new company placement drives, and send a WhatsApp alert to my phone. It must run automatically on the cloud for free.
+# TnP Portal Job Monitor
 
-Tech Stack
+An automated web scraper and notification system for a college Training & Placement (TnP) portal. The system logs into the portal, scans the "Recent Jobs" table, identifies new company placement drives, and sends a real-time alert via Discord.
 
-Language: Python 3.10
+## Features
 
-Web Automation: Playwright (sync API)
+- **Automated Scraping:** Uses Playwright to navigate the TnP portal and extract job listings.
+- **Discord Integration:** Sends formatted Discord webhook alerts for newly posted placement drives.
+- **Duplicate Prevention:** Maintains state using a `jobs.json` file to ensure you only get notified for new postings.
+- **Cloud Automation:** Runs automatically on a schedule using GitHub Actions.
 
-Notifications: Twilio WhatsApp Sandbox API
+## Tech Stack
 
-State Management: Local jobs.json file (to prevent duplicate alerts)
+- **Language:** Python 3.10
+- **Web Automation:** Playwright (sync API)
+- **Notifications:** Discord Webhooks
+- **State Management:** Local JSON storage (`jobs.json`)
+- **Automation & Hosting:** GitHub Actions
 
-Automation & Hosting: GitHub Actions (Cron jobs)
+## Prerequisites
 
-Environment Management: python-dotenv (for local testing)
+- Python 3.10+
+- A Discord Webhook URL for the channel where you want to receive alerts.
+- Your TnP portal credentials.
 
-Folder Structure Required
+## Setup & Installation
 
-Plaintext
-tnp-job-monitor/
-├── .github/workflows/tnp_scraper.yml
-├── scraper.py
-├── requirements.txt
-├── .gitignore
-├── .env
-└── jobs.json
-System Logic & Requirements
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Viraj-brn/TnP-Alerts.git
+   cd TnP-Alerts
+   ```
 
-1. scraper.py (The Core Engine)
+2. **Create a virtual environment (Optional but recommended):**
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
+   ```
 
-Load environment variables (Username, Password, Twilio SID, Twilio Token).
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   playwright install chromium
+   ```
 
-Load jobs.json to check previously seen jobs.
+4. **Environment Variables:**
+   Create a `.env` file in the root directory and add your credentials:
+   ```env
+   PORTAL_USERNAME=your_username
+   PORTAL_PASSWORD=your_password
+   DISCORD_WEBHOOK_URL=your_discord_webhook_url
+   ```
 
-Launch Playwright (Chromium, headless).
+## Usage
 
-Navigate to the TnP portal login page and authenticate using the credentials.
+To run the scraper manually on your local machine:
+```bash
+python scraper.py
+```
 
-Wait for the dashboard to load, specifically targeting the DataTables element (table tbody tr).
+## Cloud Automation
 
-Loop through the table rows and extract:
+This project is configured to run automatically using GitHub Actions.
 
-Company Name (Column 0)
+To enable this on your own fork/repository:
+1. Go to your repository **Settings** > **Secrets and variables** > **Actions**.
+2. Add the following Repository Secrets:
+   - `PORTAL_USERNAME`
+   - `PORTAL_PASSWORD`
+   - `DISCORD_WEBHOOK_URL`
+3. Enable GitHub Actions in your repository.
+4. Ensure your repository has read/write permissions for workflows to commit changes (so it can update `jobs.json`). This can be found under **Settings** > **Actions** > **General** > **Workflow permissions**.
 
-Deadline (Column 1)
-
-View & Apply Link (Extract href from the <a> tag in Column 3). Ensure relative URLs are converted to absolute URLs.
-
-Create a unique ID for each row (e.g., Company_Deadline).
-
-If the unique ID is not in jobs.json:
-
-Trigger the Twilio WhatsApp API to send a formatted markdown message to my verified number.
-
-Add the new job to the dictionary.
-
-If new jobs were found, overwrite jobs.json with the updated dictionary.
-
-Future-proofing note: Include inline comments indicating where I can eventually add a function to click the "Apply" link and scrape the job description to filter specifically for Data Scientist and Finance roles before sending the alert.
-
-2. GitHub Actions (.github/workflows/tnp_scraper.yml)
-
-Trigger: Cron schedule every 3 hours, plus workflow_dispatch for manual triggers.
-
-Environment: ubuntu-latest.
-
-Steps:
-
-Checkout repository.
-
-Setup Python 3.10.
-
-Install dependencies from requirements.txt and run playwright install chromium.
-
-Run scraper.py while safely injecting GitHub Secrets as environment variables (PORTAL_USERNAME, PORTAL_PASSWORD, TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN).
-
-Configure Git user (bot) to commit and push any changes made to jobs.json back to the main branch so the state is maintained for the next run.
-
-3. Setup Files
-
-requirements.txt: Must include playwright, twilio, and python-dotenv.
-
-.gitignore: Must explicitly ignore .env, __pycache__/, and .pytest_cache/. Do NOT ignore jobs.json.
-
-Please generate the complete, production-ready code for all of these files based on these exact specifications. Ensure the Python code includes robust error handling for network timeouts or missing DOM elements.
+The action will run automatically based on the cron schedule, and update `jobs.json` in the repository to maintain state between runs.
