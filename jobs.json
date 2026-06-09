@@ -39,6 +39,16 @@
             "company": "JPMorganChase",
             "deadline": "12/03/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/88bb72b1eea33cb76b459f192866b011"
+        },
+        "PURESH_DAILY_FOODS_PVT_LTD_11/02/2026": {
+            "company": "PURESH DAILY FOODS PVT LTD",
+            "deadline": "11/02/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/d791aec9a8f137d3bb6c4b0c96f16422"
+        },
+        "Clinforge_Clinical_Research_Solutions_Pvt._Ltd._18/04/2026": {
+            "company": "Clinforge Clinical Research Solutions Pvt. Ltd.",
+            "deadline": "18/04/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/ef39895ef5bf54b8eb1a95022e038e45"
         }
     },
     "notifications": {
@@ -77,6 +87,22 @@
         "Code with Cisco": {
             "title": "Code with Cisco",
             "summary": "\u2022 All the interested candidates are required to apply for the Code with Cisco program from the following link as well after filling the Google form:\n\u2022 Deadline: 9th June 10 AM\n\u2022 The Google form for Code with Cisco has re-opened for registration. Anybody interested may fill the same before the deadline."
+        },
+        "Tata Technologies InnoVent-27: Registration & Project Submission Open": {
+            "title": "Tata Technologies InnoVent-27: Registration & Project Submission Open",
+            "summary": "\u2022 Students can register and submit their project ideas through the official Tata Technologies InnoVent-27 platform.\n\u2022 Important Dates\n\u2022 The official portal contains complete information regarding:"
+        },
+        "Clinforge Clinical Research Solutions Pvt. Ltd. : INTERVIEWS - HR": {
+            "title": "Clinforge Clinical Research Solutions Pvt. Ltd. : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "PURESH DAILY FOODS PVT LTD : Group Discussion": {
+            "title": "PURESH DAILY FOODS PVT LTD : Group Discussion",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Semifront Technologies : INTERVIEWS - HR": {
+            "title": "Semifront Technologies : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
         }
     }
 }
