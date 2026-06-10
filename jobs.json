@@ -54,6 +54,31 @@
             "company": "Airway Media",
             "deadline": "03/02/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/c11447ca2fae4acae2fdea0c56b77e07"
+        },
+        "Mozo_Hunt_07/03/2026": {
+            "company": "Mozo Hunt",
+            "deadline": "07/03/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/7555b07266327438c81f38e7d83f7568"
+        },
+        "Open_Wings_Foundation_31/03/2026": {
+            "company": "Open Wings Foundation",
+            "deadline": "31/03/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/695c342d375805e732733164c9c585fb"
+        },
+        "ITC_Ltd._16/04/2026": {
+            "company": "ITC Ltd.",
+            "deadline": "16/04/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/73156f81cb1971b61485b70f69e068f2"
+        },
+        "DigiLive24_13/03/2026": {
+            "company": "DigiLive24",
+            "deadline": "13/03/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/c400a0e04da2f634e9e43c0ee5eb0e07"
+        },
+        "Maxview_Now_07/03/2026": {
+            "company": "Maxview Now",
+            "deadline": "07/03/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/6376b6a440051b24f7142df8b782ebb2"
         }
     },
     "notifications": {
@@ -131,6 +156,26 @@
         },
         "Talking Crooks IT Pvt. Ltd. : INTERVIEWS - HR": {
             "title": "Talking Crooks IT Pvt. Ltd. : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Open Wings Foundation : Initial Short listing": {
+            "title": "Open Wings Foundation : Initial Short listing",
+            "summary": "HR Update (No summary generated)"
+        },
+        "ITC Ltd. : Initial Short listing": {
+            "title": "ITC Ltd. : Initial Short listing",
+            "summary": "HR Update (No summary generated)"
+        },
+        "DigiLive24 : Group Discussion": {
+            "title": "DigiLive24 : Group Discussion",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Maxview Now : Initial Short listing": {
+            "title": "Maxview Now : Initial Short listing",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Mozo Hunt : Group Discussion": {
+            "title": "Mozo Hunt : Group Discussion",
             "summary": "HR Update (No summary generated)"
         }
     }
