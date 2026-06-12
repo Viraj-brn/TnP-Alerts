@@ -79,6 +79,16 @@
             "company": "Maxview Now",
             "deadline": "07/03/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/6376b6a440051b24f7142df8b782ebb2"
+        },
+        "Deal_Squard_07/03/2026": {
+            "company": "Deal Squard",
+            "deadline": "07/03/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/d78f5db27186aa480b439b7ea49c223c"
+        },
+        "Savera_National_Trust_04/02/2026": {
+            "company": "Savera National Trust",
+            "deadline": "04/02/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/98a5ba19d1e67613a764b8f53b176a8c"
         }
     },
     "notifications": {
@@ -180,6 +190,18 @@
         },
         "Spinny : INTERVIEWS - Technical": {
             "title": "Spinny : INTERVIEWS - Technical",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Opportunity for Students Interested in Cybersecurity \u2013 InCTF 2026": {
+            "title": "Opportunity for Students Interested in Cybersecurity \u2013 InCTF 2026",
+            "summary": "\u2022 2.Information Security\n\u2022 4.Information Technology\n\u2022 For registration details and competition information, please refer to the attached poster/shared registration link."
+        },
+        "Savera National Trust : Group Discussion": {
+            "title": "Savera National Trust : Group Discussion",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Deal Squard : Initial Short listing": {
+            "title": "Deal Squard : Initial Short listing",
             "summary": "HR Update (No summary generated)"
         }
     }
