@@ -179,6 +179,11 @@
             "company": "Tech Mahindra",
             "deadline": "04/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/abc7efe2165b9cf4968748af9e812e54"
+        },
+        "Infineon_Technologies_06/08/2026": {
+            "company": "Infineon Technologies",
+            "deadline": "06/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/8eca8d1392c572b08e866e5601e04482"
         }
     },
     "notifications": {
@@ -597,6 +602,22 @@
         "Tech Mahindra : INTERVIEWS - HR": {
             "title": "Tech Mahindra : INTERVIEWS - HR",
             "summary": "HR Update (No summary generated)"
+        },
+        "Ideas for India 2026 \u2013 National Innovation Challenge by Optum": {
+            "title": "Ideas for India 2026 \u2013 National Innovation Challenge by Optum",
+            "summary": "\u2022 This is to inform all interested students about Ideas for India 2026, a national level innovation challenge organized by Optum in association with The Times of India and hosted on TechGig.\n\u2022 Registration Links:\n\u2022 Interested students are encouraged to register and participate at the earliest."
+        },
+        "Aadhaar & PAN Card Update": {
+            "title": "Aadhaar & PAN Card Update",
+            "summary": "Please click the link above to read the full notice."
+        },
+        "Participation Policy for Students Selected in Two-Month Internships": {
+            "title": "Participation Policy for Students Selected in Two-Month Internships",
+            "summary": "\u2022 This is to inform all students that candidates who have been selected for a two-month internship through the Training & Placement Cell are not allowed to participate in any subsequent on-campus or off-campus placement drives."
+        },
+        "Unauthorized Representation of the Training & Placement Cell": {
+            "title": "Unauthorized Representation of the Training & Placement Cell",
+            "summary": "Please click the link above to read the full notice."
         }
     }
 }
