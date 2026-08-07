@@ -214,6 +214,11 @@
             "company": "Infineon Technologies",
             "deadline": "07/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/8eca8d1392c572b08e866e5601e04482"
+        },
+        "Cisco_07/08/2026": {
+            "company": "Cisco",
+            "deadline": "07/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/c98393220ab88b1a757b228dcc4fe438"
         }
     },
     "notifications": {
@@ -723,6 +728,18 @@
         },
         "ZS Associates India Pvt. Ltd. DAA Results": {
             "title": "ZS Associates India Pvt. Ltd. DAA Results",
+            "summary": "HR Update (No summary generated)"
+        },
+        "D. E. Shaw India Private Limited INTERVIEWS - HR": {
+            "title": "D. E. Shaw India Private Limited INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Cisco Cisco PPO": {
+            "title": "Cisco Cisco PPO",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Titan Email Lab Allotment - TITAN EMAIL": {
+            "title": "Titan Email Lab Allotment - TITAN EMAIL",
             "summary": "HR Update (No summary generated)"
         }
     }
