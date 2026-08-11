@@ -224,6 +224,16 @@
             "company": "Amgen",
             "deadline": "12/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/da7ac95eb847fcc7176bb3e12337c4ea"
+        },
+        "Accenture_India_13/08/2026": {
+            "company": "Accenture India",
+            "deadline": "13/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/6b1801b1fc886a72b75b3b61ce1bb71c"
+        },
+        "Fastenal_13/08/2026": {
+            "company": "Fastenal",
+            "deadline": "13/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/25e044ca8bcd68776cd09cba8d0c1752"
         }
     },
     "notifications": {
@@ -801,6 +811,10 @@
         },
         "Arcesium Pvt. Ltd. Interview Shortlist": {
             "title": "Arcesium Pvt. Ltd. Interview Shortlist",
+            "summary": "HR Update (No summary generated)"
+        },
+        "D. E. Shaw India Private Limited : INTERVIEWS - Technical": {
+            "title": "D. E. Shaw India Private Limited : INTERVIEWS - Technical",
             "summary": "HR Update (No summary generated)"
         }
     }
