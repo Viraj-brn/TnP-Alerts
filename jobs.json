@@ -234,6 +234,16 @@
             "company": "Fastenal",
             "deadline": "13/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/25e044ca8bcd68776cd09cba8d0c1752"
+        },
+        "Recrivio_11/08/2026": {
+            "company": "Recrivio",
+            "deadline": "11/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/d3a88aaad909384176bd823cb0efe11a"
+        },
+        "Recrivio_12/04/2026": {
+            "company": "Recrivio",
+            "deadline": "12/04/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/8a5c8416cff56b1d8acecb5ecc806078"
         }
     },
     "notifications": {
@@ -815,6 +825,18 @@
         },
         "D. E. Shaw India Private Limited : INTERVIEWS - Technical": {
             "title": "D. E. Shaw India Private Limited : INTERVIEWS - Technical",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Placement Preparation Workshop by ANEDCO \u2013 16 August 2026": {
+            "title": "Placement Preparation Workshop by ANEDCO \u2013 16 August 2026",
+            "summary": "\u2022 Date: 16 August 2026\n\u2022 Time: 10:00 AM \u2013 11:30 AM\n\u2022 Venue: Seminar Hall-2\n\u2022 All final year (UG & PG) students are requested to register through the Google Form given below.\n\u2022 Registration Link"
+        },
+        "Recrivio : INTERVIEWS - Technical": {
+            "title": "Recrivio : INTERVIEWS - Technical",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Arcesium Pvt. Ltd. : Initial Short listing": {
+            "title": "Arcesium Pvt. Ltd. : Initial Short listing",
             "summary": "HR Update (No summary generated)"
         }
     }
