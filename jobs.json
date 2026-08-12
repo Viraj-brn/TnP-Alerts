@@ -244,6 +244,11 @@
             "company": "Recrivio",
             "deadline": "12/04/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/8a5c8416cff56b1d8acecb5ecc806078"
+        },
+        "Schneider_Electric_13/08/2026": {
+            "company": "Schneider Electric",
+            "deadline": "13/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/02ce0de31da65f6695c83ae7470a04f2"
         }
     },
     "notifications": {
@@ -850,6 +855,10 @@
         "EatClub Brands Pvt. Ltd. Mandatory Student Registration": {
             "title": "EatClub Brands Pvt. Ltd. Mandatory Student Registration",
             "summary": "HR Update (No summary generated)"
+        },
+        "Accenture India Questionnaire": {
+            "title": "Accenture India Questionnaire",
+            "summary": "\u2022 All students applying for Accenture India are informed that if they do not have a Middle Name, they can enter \u201cNA\u201d in the Middle Name field while filling out the application form."
         }
     }
 }
