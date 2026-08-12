@@ -249,6 +249,11 @@
             "company": "Schneider Electric",
             "deadline": "13/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/02ce0de31da65f6695c83ae7470a04f2"
+        },
+        "KPMG_Assurance_and_Consulting_Services_LLP_13/08/2026": {
+            "company": "KPMG Assurance and Consulting Services LLP",
+            "deadline": "13/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/6bda2ead3138d0eb70e82ebf56a4f88a"
         }
     },
     "notifications": {
@@ -859,6 +864,10 @@
         "Accenture India Questionnaire": {
             "title": "Accenture India Questionnaire",
             "summary": "\u2022 All students applying for Accenture India are informed that if they do not have a Middle Name, they can enter \u201cNA\u201d in the Middle Name field while filling out the application form."
+        },
+        "Fastenal No relaxation in academic requirements": {
+            "title": "Fastenal No relaxation in academic requirements",
+            "summary": "HR Update (No summary generated)"
         }
     }
 }
