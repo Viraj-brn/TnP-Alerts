@@ -289,6 +289,16 @@
             "company": "Axtria India Pvt Ltd",
             "deadline": "20/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/1bbc57ab3d8513c94a4e2ebbfb9a8e87"
+        },
+        "TresVista_19/08/2026": {
+            "company": "TresVista",
+            "deadline": "19/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/9b329545790d07ec0aa91ebd7a2fef74"
+        },
+        "ITC_Ltd_(India_Tobacco_Division)_18/08/2026": {
+            "company": "ITC Ltd (India Tobacco Division)",
+            "deadline": "18/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/a160e60b267ccdc82aed268ee356c4c9"
         }
     },
     "notifications": {
@@ -1126,6 +1136,14 @@
         },
         "KPMG Assurance and Consulting Services LLP Registration problems": {
             "title": "KPMG Assurance and Consulting Services LLP Registration problems",
+            "summary": "HR Update (No summary generated)"
+        },
+        "ITC Ltd (India Tobacco Division) (PPO) : INTERVIEWS - HR": {
+            "title": "ITC Ltd (India Tobacco Division) (PPO) : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "ITC Ltd (India Tobacco Division) : INTERVIEWS - HR": {
+            "title": "ITC Ltd (India Tobacco Division) : INTERVIEWS - HR",
             "summary": "HR Update (No summary generated)"
         }
     }
