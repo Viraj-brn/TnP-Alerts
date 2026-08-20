@@ -339,6 +339,11 @@
             "company": "Wissen Technology",
             "deadline": "20/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/dad92a1c90b1e8734afbdaa1537cc941"
+        },
+        "Tata_Steel_Limited_21/08/2026": {
+            "company": "Tata Steel Limited",
+            "deadline": "21/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/cdc456a0c738777d0146c40a44fc5b6d"
         }
     },
     "notifications": {
@@ -1229,6 +1234,10 @@
         "Registration and Profile Updation - M.Tech": {
             "title": "Registration and Profile Updation - M.Tech",
             "summary": "\u2022 This is to inform all students from M.Tech Program that they are required to Register on the portal and Update their profile at the earliest.\n\u2022 Subsequently, they will be able to apply to the companies they are eligible for, which are - Axtria India Pvt Ltd, Dhruva Technologies Pvt. Ltd. & Wissen Technology before 1:00 PM, 20/08/26."
+        },
+        "Mandatory Guidelines for Lab-Based Assessments": {
+            "title": "Mandatory Guidelines for Lab-Based Assessments",
+            "summary": "Please click the link above to read the full notice."
         }
     }
 }
