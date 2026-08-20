@@ -334,6 +334,11 @@
             "company": "Tata Steel Limited",
             "deadline": "20/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/cdc456a0c738777d0146c40a44fc5b6d"
+        },
+        "Wissen_Technology_20/08/2026": {
+            "company": "Wissen Technology",
+            "deadline": "20/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/dad92a1c90b1e8734afbdaa1537cc941"
         }
     },
     "notifications": {
@@ -1220,6 +1225,10 @@
         "ACCENTURE INDIA Pre-Placement Connect session.": {
             "title": "ACCENTURE INDIA Pre-Placement Connect session.",
             "summary": "\u2022 All registered students of the 2027 graduating batch are hereby informed that Accenture Campus Recruitment Team has scheduled a Pre-Placement Connect session.\n\u2022 Date: 24th August 2026 (MONDAY)\n\u2022 Time: 11:00 PM\n\u2022 Venue: CAT Hall\n\u2022 All registered students are required to report to CAT Hall by 11:00 AM sharp.\n\u2022 Attendance is mandatory for all registered students"
+        },
+        "Registration and Profile Updation - M.Tech": {
+            "title": "Registration and Profile Updation - M.Tech",
+            "summary": "\u2022 This is to inform all students from M.Tech Program that they are required to Register on the portal and Update their profile at the earliest.\n\u2022 Subsequently, they will be able to apply to the companies they are eligible for, which are - Axtria India Pvt Ltd, Dhruva Technologies Pvt. Ltd. & Wissen Technology before 1:00 PM, 20/08/26."
         }
     }
 }
