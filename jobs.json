@@ -344,6 +344,16 @@
             "company": "Tata Steel Limited",
             "deadline": "21/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/cdc456a0c738777d0146c40a44fc5b6d"
+        },
+        "Gainwell_Commosales_22/08/2026": {
+            "company": "Gainwell Commosales",
+            "deadline": "22/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/e05bec8a9ecfb55c0e55931e7169bdce"
+        },
+        "Kirloskar_Oil_Engines_Ltd_(KOEL)_13/07/2026": {
+            "company": "Kirloskar Oil Engines Ltd (KOEL)",
+            "deadline": "13/07/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/034ed15d7672323934e07b17c81665bf"
         }
     },
     "notifications": {
@@ -1273,6 +1283,14 @@
         },
         "Flipkart Shortlist for Flipkart Technical Interview": {
             "title": "Flipkart Shortlist for Flipkart Technical Interview",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Kirloskar Oil Engines Ltd (KOEL) : INTERVIEWS - HR": {
+            "title": "Kirloskar Oil Engines Ltd (KOEL) : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Amgen Online Assessment Lab Allotment": {
+            "title": "Amgen Online Assessment Lab Allotment",
             "summary": "HR Update (No summary generated)"
         }
     }
