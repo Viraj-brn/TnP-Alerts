@@ -374,6 +374,11 @@
             "company": "Urban Company",
             "deadline": "23/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/8e6a514353e8c0189f51b44f6d7e9322"
+        },
+        "Cisco_24/08/2026": {
+            "company": "Cisco",
+            "deadline": "24/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/4abad961eb136c853365588d3218a368"
         }
     },
     "notifications": {
@@ -1344,6 +1349,14 @@
         "Amgen Online Assessment": {
             "title": "Amgen Online Assessment",
             "summary": "HR Update (No summary generated)"
+        },
+        "Fastenal : INTERVIEWS - HR": {
+            "title": "Fastenal : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "IMPORTANT- COGNIZANT TECHNICAL ASSESSMENT": {
+            "title": "IMPORTANT- COGNIZANT TECHNICAL ASSESSMENT",
+            "summary": "\u2022 REPORTING TIME - 9:15AM (22ND AUGUST)"
         }
     }
 }
