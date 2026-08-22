@@ -379,6 +379,11 @@
             "company": "Cisco",
             "deadline": "24/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/4abad961eb136c853365588d3218a368"
+        },
+        "Myntra_22/08/2026": {
+            "company": "Myntra",
+            "deadline": "22/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/7ee0cd578cf77dd825bcf9ed35cd1a7a"
         }
     },
     "notifications": {
@@ -1357,6 +1362,10 @@
         "IMPORTANT- COGNIZANT TECHNICAL ASSESSMENT": {
             "title": "IMPORTANT- COGNIZANT TECHNICAL ASSESSMENT",
             "summary": "\u2022 REPORTING TIME - 9:15AM (22ND AUGUST)"
+        },
+        "Myntra : INTERVIEWS - HR": {
+            "title": "Myntra : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
         }
     }
 }
