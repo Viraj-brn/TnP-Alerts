@@ -394,6 +394,16 @@
             "company": "BlackNGreen",
             "deadline": "25/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/8317b73f596d2d03d2c454667523f0f7"
+        },
+        "GIZ_(Gesellschaft_f\u00fcr_Internationale_Zusammenarbeit)_25/08/2026": {
+            "company": "GIZ (Gesellschaft f\u00fcr Internationale Zusammenarbeit)",
+            "deadline": "25/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/27b0b02111bc15bbaad8da57dc0885f9"
+        },
+        "ABIRIBA_LIMITED_25/08/2026": {
+            "company": "ABIRIBA LIMITED",
+            "deadline": "25/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/4cb7c971ada79fe5b9fd5206ad9d8d0b"
         }
     },
     "notifications": {
@@ -1440,6 +1450,14 @@
         "Amgen Regarding Further Process": {
             "title": "Amgen Regarding Further Process",
             "summary": "HR Update (No summary generated)"
+        },
+        "Sun King (formerly Greenlight Planet) Analyst role shortlist": {
+            "title": "Sun King (formerly Greenlight Planet) Analyst role shortlist",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Accenture Registration \u2013 IMSc (QEDS & MNC)": {
+            "title": "Accenture Registration \u2013 IMSc (QEDS & MNC)",
+            "summary": "Please click the link above to read the full notice."
         }
     }
 }
