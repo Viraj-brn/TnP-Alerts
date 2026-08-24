@@ -384,6 +384,16 @@
             "company": "Myntra",
             "deadline": "22/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/7ee0cd578cf77dd825bcf9ed35cd1a7a"
+        },
+        "AINoviQ_(Nexiva.ai)_25/08/2026": {
+            "company": "AINoviQ (Nexiva.ai)",
+            "deadline": "25/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/54e6d18dccbfc61c31033854469b5b3c"
+        },
+        "BlackNGreen_25/08/2026": {
+            "company": "BlackNGreen",
+            "deadline": "25/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/8317b73f596d2d03d2c454667523f0f7"
         }
     },
     "notifications": {
@@ -1413,6 +1423,22 @@
         },
         "Tiger Analytics Shortlist": {
             "title": "Tiger Analytics Shortlist",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Accenture Registration \u2013 Important Instructions": {
+            "title": "Accenture Registration \u2013 Important Instructions",
+            "summary": "Please click the link above to read the full notice."
+        },
+        "Myntra (PPO) : INTERVIEWS - HR": {
+            "title": "Myntra (PPO) : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "ZS Associates India Pvt. Ltd. ZS Shortlisted Candidates": {
+            "title": "ZS Associates India Pvt. Ltd. ZS Shortlisted Candidates",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Amgen Regarding Further Process": {
+            "title": "Amgen Regarding Further Process",
             "summary": "HR Update (No summary generated)"
         }
     }
