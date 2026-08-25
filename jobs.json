@@ -1522,6 +1522,14 @@
         "Sun King (formerly Greenlight Planet) IMPORTANT NOTICE \u2013 FOR ALL SHORTLISTED CANDIDATES": {
             "title": "Sun King (formerly Greenlight Planet) IMPORTANT NOTICE \u2013 FOR ALL SHORTLISTED CANDIDATES",
             "summary": "HR Update (No summary generated)"
+        },
+        "Sun King SDE-1 Backend Lab Allotment": {
+            "title": "Sun King SDE-1 Backend Lab Allotment",
+            "summary": "\u2022 All students must report to their allotted labs at least 15 minutes before the scheduled start time, i.e., by 10:15 AM.\n\u2022 Please check your lab allotment carefully and ensure that you report on time."
+        },
+        "Sun King - Analyst Role Lab Allotment": {
+            "title": "Sun King - Analyst Role Lab Allotment",
+            "summary": "\u2022 All students must report to their allotted labs at least 15 minutes before the scheduled start time, i.e., by 10:15 AM.\n\u2022 Please check your lab allotment carefully and ensure that you report on time."
         }
     }
 }
