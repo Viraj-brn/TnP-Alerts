@@ -449,6 +449,11 @@
             "company": "ENTNT",
             "deadline": "05/09/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/22f93aa86098d2b4d964053541a60450"
+        },
+        "AB_InBev_02/09/2026": {
+            "company": "AB InBev",
+            "deadline": "02/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/05920d65bcfd0ff17e30f6f1b52fd756"
         }
     },
     "notifications": {
@@ -1742,6 +1747,26 @@
         },
         "Futures First Info Services Pvt. Ltd. Urgent Notice (Registration Form)": {
             "title": "Futures First Info Services Pvt. Ltd. Urgent Notice (Registration Form)",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Infosys Test Process \u2013 2nd September 2026": {
+            "title": "Infosys Test Process \u2013 2nd September 2026",
+            "summary": "HR Update (No summary generated)"
+        },
+        "ACCENTURE INDIA Confirmation List": {
+            "title": "ACCENTURE INDIA Confirmation List",
+            "summary": "\u2022 All students who have completed the Accenture website registration are hereby informed to fill out the confirmation form only if they have received the confirmation email from Accenture confirming successful registration.\n\u2022 Please ensure that the information submitted is accurate and matches the details used during the Accenture registration process.\n\u2022 Centre: BIT Mesra | | Visit Link"
+        },
+        "TresVista Interview Reporting Instructions": {
+            "title": "TresVista Interview Reporting Instructions",
+            "summary": "HR Update (No summary generated)"
+        },
+        "PAYTM Important notice regarding college name selection.": {
+            "title": "PAYTM Important notice regarding college name selection.",
+            "summary": "HR Update (No summary generated)"
+        },
+        "TresVista Interview R1 Shortlist for Analyst \u2013 DIG": {
+            "title": "TresVista Interview R1 Shortlist for Analyst \u2013 DIG",
             "summary": "HR Update (No summary generated)"
         }
     }
