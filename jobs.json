@@ -444,6 +444,11 @@
             "company": "Axxela",
             "deadline": "02/09/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/92888c8f521de16d27d2d38d5384260b"
+        },
+        "ENTNT_05/09/2026": {
+            "company": "ENTNT",
+            "deadline": "05/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/22f93aa86098d2b4d964053541a60450"
         }
     },
     "notifications": {
@@ -1725,6 +1730,18 @@
         },
         "Sun King (formerly Greenlight Planet) : INTERVIEWS - Technical": {
             "title": "Sun King (formerly Greenlight Planet) : INTERVIEWS - Technical",
+            "summary": "HR Update (No summary generated)"
+        },
+        "KPMG Assurance and Consulting Services LLP : INTERVIEWS - HR": {
+            "title": "KPMG Assurance and Consulting Services LLP : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Schneider Electric Schneider Electric PPT": {
+            "title": "Schneider Electric Schneider Electric PPT",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Futures First Info Services Pvt. Ltd. Urgent Notice (Registration Form)": {
+            "title": "Futures First Info Services Pvt. Ltd. Urgent Notice (Registration Form)",
             "summary": "HR Update (No summary generated)"
         }
     }
