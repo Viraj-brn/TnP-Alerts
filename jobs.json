@@ -459,6 +459,21 @@
             "company": "Tata Steel Limited",
             "deadline": "03/09/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/cdc456a0c738777d0146c40a44fc5b6d"
+        },
+        "LG_Electronics_India_Limited_03/09/2026": {
+            "company": "LG Electronics India Limited",
+            "deadline": "03/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/cc98816b17c5a622de93bbf43d5b41e3"
+        },
+        "Warner_Bros._Discovery_03/09/2026": {
+            "company": "Warner Bros. Discovery",
+            "deadline": "03/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/83a9f45fce91c74737693c5e2742c52c"
+        },
+        "AB_InBev_03/09/2026": {
+            "company": "AB InBev",
+            "deadline": "03/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/05920d65bcfd0ff17e30f6f1b52fd756"
         }
     },
     "notifications": {
@@ -1829,6 +1844,34 @@
         "TATA STEEL INTERNSHIP DRIVE": {
             "title": "TATA STEEL INTERNSHIP DRIVE",
             "summary": "\u2022 All registered students are requested to stay prepared and regularly check the T&P Portal for updates regarding the upcoming rounds, schedule, and further instructions."
+        },
+        "Urban Company Urban Company PPT and OA Schedule": {
+            "title": "Urban Company Urban Company PPT and OA Schedule",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Cisco Interview Schedule": {
+            "title": "Cisco Interview Schedule",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Cisco : ASSESSMENT TEST - Technical": {
+            "title": "Cisco : ASSESSMENT TEST - Technical",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Futures First Info Services Pvt. Ltd. PPT": {
+            "title": "Futures First Info Services Pvt. Ltd. PPT",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Dhruva Technologies Pvt. Ltd. : INTERVIEWS - HR": {
+            "title": "Dhruva Technologies Pvt. Ltd. : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Warner Bros. Discovery : INTERVIEWS - HR": {
+            "title": "Warner Bros. Discovery : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "ACCENTURE INDIA - Registration for Mathematics & Computing Student": {
+            "title": "ACCENTURE INDIA - Registration for Mathematics & Computing Student",
+            "summary": "\u2022 This is to inform all IMSc Mathematics & Computing students that they may proceed with the Accenture registration by selecting \u201cMathematics\u201d as their branch and Degree as M.Sc on the registration page for the time being.\n\u2022 All eligible students are requested to complete and close their registration by 6th September to avoid any last-minute issues.\n\u2022 Students are advised to complete the registration within the stipulated timeline."
         }
     }
 }
