@@ -474,6 +474,11 @@
             "company": "AB InBev",
             "deadline": "03/09/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/05920d65bcfd0ff17e30f6f1b52fd756"
+        },
+        "ENTNT_06/09/2026": {
+            "company": "ENTNT",
+            "deadline": "06/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/22f93aa86098d2b4d964053541a60450"
         }
     },
     "notifications": {
@@ -1936,6 +1941,10 @@
         "Gainwell Commosales Shortlisted Candidates": {
             "title": "Gainwell Commosales Shortlisted Candidates",
             "summary": "\u2022 Please find the attached list of shortlisted candidates for the interview below."
+        },
+        "Axxela Lab Seating Arrangement for PPT and OA": {
+            "title": "Axxela Lab Seating Arrangement for PPT and OA",
+            "summary": "HR Update (No summary generated)"
         }
     }
 }
