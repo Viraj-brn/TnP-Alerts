@@ -479,6 +479,11 @@
             "company": "ENTNT",
             "deadline": "06/09/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/22f93aa86098d2b4d964053541a60450"
+        },
+        "EY_GDS_07/09/2026": {
+            "company": "EY GDS",
+            "deadline": "07/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/8aeeadb91c2afc204044c229ebe6542a"
         }
     },
     "notifications": {
@@ -1945,6 +1950,14 @@
         "Axxela Lab Seating Arrangement for PPT and OA": {
             "title": "Axxela Lab Seating Arrangement for PPT and OA",
             "summary": "HR Update (No summary generated)"
+        },
+        "Salesforce Design Days 2026": {
+            "title": "Salesforce Design Days 2026",
+            "summary": "\u2022 \u2022 Opportunity for shortlisted participants to present their solutions during the main event.\n\u2022 \u2022 Submission Deadline: 04 October 2026, 11:59 PM IST.\n\u2022 Please find the attached Design Brief for detailed information regarding the challenge statement, eligibility, submission requirements, and evaluation criteria.\n\u2022 Interested students are encouraged to review the attached document and register at the earliest.\n\u2022 Centre: BIT Mesra | | Visit Link"
+        },
+        "HSBC India Business Case Challenge": {
+            "title": "HSBC India Business Case Challenge",
+            "summary": "\u2022 The document contains detailed information regarding the programme structure, eligibility criteria, registration process, assessment rounds, timelines, rewards, and other important guidelines. Students interested in participating are advised to go through the FAQ carefully before registering."
         }
     }
 }
