@@ -484,6 +484,16 @@
             "company": "EY GDS",
             "deadline": "07/09/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/8aeeadb91c2afc204044c229ebe6542a"
+        },
+        "Capgemini_10/09/2026": {
+            "company": "Capgemini",
+            "deadline": "10/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/c3b97f2f766003c4c98b13c1be99e8c6"
+        },
+        "PrimeNumbers.io_09/09/2026": {
+            "company": "PrimeNumbers.io",
+            "deadline": "09/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/5334969f7ca459655ade66fb7a033398"
         }
     },
     "notifications": {
@@ -2006,6 +2016,38 @@
         "BlackNGreen Shortlist for BlackNGreen and AINoviQ (Nexiva.ai) OA": {
             "title": "BlackNGreen Shortlist for BlackNGreen and AINoviQ (Nexiva.ai) OA",
             "summary": "HR Update (No summary generated)"
+        },
+        "EY GDS Online Assessment Lab Allotment": {
+            "title": "EY GDS Online Assessment Lab Allotment",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Urban Company Lab Allotment and OA Instructions": {
+            "title": "Urban Company Lab Allotment and OA Instructions",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Tata Consultancy Services Ltd Revision in Job type for TCS Ltd.": {
+            "title": "Tata Consultancy Services Ltd Revision in Job type for TCS Ltd.",
+            "summary": "HR Update (No summary generated)"
+        },
+        "EY GDS Assessment Process \u2013 Important Information for Shortlisted Candidates": {
+            "title": "EY GDS Assessment Process \u2013 Important Information for Shortlisted Candidates",
+            "summary": "HR Update (No summary generated)"
+        },
+        "NBC Bearings Final Result": {
+            "title": "NBC Bearings Final Result",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Aviotron Aerospace Pvt. Ltd. : INTERVIEWS - HR": {
+            "title": "Aviotron Aerospace Pvt. Ltd. : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Urban Company Urgent : Google Form Submission": {
+            "title": "Urban Company Urgent : Google Form Submission",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Amazon ML Challenge 2026": {
+            "title": "Amazon ML Challenge 2026",
+            "summary": "\u2022 All eligible students are hereby informed that Amazon ML Challenge 2026, a team-based Machine Learning hackathon by Amazon, is being organized for students to work on a real Amazon dataset and develop solutions to a real-world ML problem.\n\u2022 Important Dates:\n\u2022 Interested and eligible students are encouraged to register at the earliest:"
         }
     }
 }
