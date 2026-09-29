@@ -85,9 +85,9 @@ def main():
             page.goto(LOGIN_URL, wait_until="domcontentloaded", timeout=60000)
             
             print("Logging in...")
-            page.get_by_role("textbox", name="Enter username").fill(PORTAL_USERNAME)
-            page.get_by_role("textbox", name="Enter password").fill(PORTAL_PASSWORD)
-            page.get_by_role("button", name="Login").click()
+            page.locator("#identity").fill(PORTAL_USERNAME)
+            page.locator("#password").fill(PORTAL_PASSWORD)
+            page.locator(".btn-login").click()
         except Exception as e:
             print(f"❌ Failed to reach or complete login screen: {e}")
             browser.close()
