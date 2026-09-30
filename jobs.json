@@ -139,6 +139,16 @@
             "company": "Reliance Industries Ltd.",
             "deadline": "04/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/6ce2f81bdef7b6a054984dd442dd030c"
+        },
+        "Adrosonic_01/10/2026": {
+            "company": "Adrosonic",
+            "deadline": "01/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/5b68d4021ea697bca2691c837fa654ec"
+        },
+        "Polycab_India_01/10/2026": {
+            "company": "Polycab India",
+            "deadline": "01/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/c1c271c1d138a606219ad4825a6858db"
         }
     },
     "notifications": {
@@ -192,6 +202,18 @@
         },
         "Reliance Industries Ltd. Mandatory Registration": {
             "title": "Reliance Industries Ltd. Mandatory Registration",
+            "summary": "HR Update (No summary generated)"
+        },
+        "HP Power Lab 3.0 & Eurogrip TORQ Challenge 4.0": {
+            "title": "HP Power Lab 3.0 & Eurogrip TORQ Challenge 4.0",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Adrosonic Mesra campus": {
+            "title": "Adrosonic Mesra campus",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Realization Technologies PPT LINK": {
+            "title": "Realization Technologies PPT LINK",
             "summary": "HR Update (No summary generated)"
         }
     }
