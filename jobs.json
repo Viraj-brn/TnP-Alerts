@@ -129,6 +129,16 @@
             "company": "Capgemini",
             "deadline": "10/09/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/c3b97f2f766003c4c98b13c1be99e8c6"
+        },
+        "Schneider_Electric_01/10/2026": {
+            "company": "Schneider Electric",
+            "deadline": "01/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/4d319ee92f58595f3505a5f15c7df143"
+        },
+        "Reliance_Industries_Ltd._04/10/2026": {
+            "company": "Reliance Industries Ltd.",
+            "deadline": "04/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/6ce2f81bdef7b6a054984dd442dd030c"
         }
     },
     "notifications": {
@@ -166,6 +176,22 @@
         },
         "AppsForBharat Introductory Talk | Mandatory for Shortlisted Students": {
             "title": "AppsForBharat Introductory Talk | Mandatory for Shortlisted Students",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Realization OA Shortlist": {
+            "title": "Realization OA Shortlist",
+            "summary": "\u2022 Please find attached the shortlist for today's realization OA.\n\u2022 Candidates are instructed to reach Lab 4 well before the designated time to avoid hassle."
+        },
+        "URGENT NOTICE \u2013 Juspay Physical Drive": {
+            "title": "URGENT NOTICE \u2013 Juspay Physical Drive",
+            "summary": "\u2022 All concerned students are hereby informed that the Juspay Physical Drive will be conducted at BIT Mesra, Jaipur Campus.\n\u2022 Process Date: 1st October 2026\n\u2022 Reporting Time: 8:45 AM\n\u2022 Students must carry their updated Resume and College ID."
+        },
+        "ADROSONIC Build Hackathon": {
+            "title": "ADROSONIC Build Hackathon",
+            "summary": "\u2022 All students participating in the Adrosonic Build Hackathon are instructed to ensure that the Google Drive link submitted as part of the hackathon proposal submission has the required access permissions."
+        },
+        "Reliance Industries Ltd. Mandatory Registration": {
+            "title": "Reliance Industries Ltd. Mandatory Registration",
             "summary": "HR Update (No summary generated)"
         }
     }
