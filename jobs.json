@@ -169,6 +169,11 @@
             "company": "Mindsprint",
             "deadline": "02/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/7cc8ea090af3e24e918e15316bbfd078"
+        },
+        "EY_GDS_07/09/2026": {
+            "company": "EY GDS",
+            "deadline": "07/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/8aeeadb91c2afc204044c229ebe6542a"
         }
     },
     "notifications": {
@@ -283,6 +288,18 @@
         "IMPORTANT NOTICE | PRE-FINAL YEAR PLACEMENT GUIDELINES": {
             "title": "IMPORTANT NOTICE | PRE-FINAL YEAR PLACEMENT GUIDELINES",
             "summary": "\u2022 All pre-final year students are hereby informed that companies offering 2-month internship opportunities, such as Axis Bank and other upcoming recruiters, may extend Pre-Placement Offers (PPOs) based on their selection and internship performance criteria.\n\u2022 Students who have already secured an Internship opportunity through off-campus recruitment and still apply for on-campus opportunities must inform/update the Training & Placement Division about their existing off-campus internship offer."
+        },
+        "Adrosonic Strict compliance": {
+            "title": "Adrosonic Strict compliance",
+            "summary": "HR Update (No summary generated)"
+        },
+        "AXIS BANK | IMPORTANT NOTICE": {
+            "title": "AXIS BANK | IMPORTANT NOTICE",
+            "summary": "\u2022 Many CVs of students who have applied for Axis Bank are not opening due to access restrictions. All applicants are requested to change their CV link access to \u201cAnyone with the link can view\u201d to ensure that their CVs can be accessed without any issues.\n\u2022 Please note that failure to update the access permissions may affect your shortlisting process."
+        },
+        "ADROSONIC Build Hackathon Attendance": {
+            "title": "ADROSONIC Build Hackathon Attendance",
+            "summary": "\u2022 All the participants of the hackathon are required to report to the CAT HALL immediately for the Launch event. Failure to do so will lead to disqualification from the Hackathon and the placement process."
         }
     }
 }
