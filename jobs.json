@@ -199,6 +199,11 @@
             "company": "ENTNT",
             "deadline": "06/09/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/22f93aa86098d2b4d964053541a60450"
+        },
+        "Futures_First_Info_Services_Pvt._Ltd._01/09/2026": {
+            "company": "Futures First Info Services Pvt. Ltd.",
+            "deadline": "01/09/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/417b5f99c82285011c22a503e0f4172d"
         }
     },
     "notifications": {
@@ -340,6 +345,22 @@
         },
         "Adrosonic Shortlisted Students for Interview": {
             "title": "Adrosonic Shortlisted Students for Interview",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Adrosonic RNI GD shortlist": {
+            "title": "Adrosonic RNI GD shortlist",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Adrosonic Interview update RNI": {
+            "title": "Adrosonic Interview update RNI",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Adrosonic IMPORTANT INFO": {
+            "title": "Adrosonic IMPORTANT INFO",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Adrosonic Shortlisted Students for Interview - SE Role": {
+            "title": "Adrosonic Shortlisted Students for Interview - SE Role",
             "summary": "HR Update (No summary generated)"
         }
     }
