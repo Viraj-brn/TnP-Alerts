@@ -224,6 +224,11 @@
             "company": "A.O. Smith",
             "deadline": "08/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/af57cbae0c6a8b3c5dc10f6bef125adf"
+        },
+        "Salesforce_09/10/2026": {
+            "company": "Salesforce",
+            "deadline": "09/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/474ea84b3e401fcc7223dbe8051fbddb"
         }
     },
     "notifications": {
@@ -529,6 +534,18 @@
         },
         "Amgen Update": {
             "title": "Amgen Update",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Reliance Industries Ltd. Revised Lab Allotment": {
+            "title": "Reliance Industries Ltd. Revised Lab Allotment",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Reliance Industries Ltd. Reliance OA Lab Allotment": {
+            "title": "Reliance Industries Ltd. Reliance OA Lab Allotment",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Reliance Industries Ltd. Reliance OA Shortlist": {
+            "title": "Reliance Industries Ltd. Reliance OA Shortlist",
             "summary": "HR Update (No summary generated)"
         }
     }
