@@ -239,6 +239,26 @@
             "company": "Tata Steel Limited",
             "deadline": "09/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/60aaa474252f732cb1412cd5b4463f57"
+        },
+        "Dalmia_Cement_(Bharat)_Limited_09/10/2026": {
+            "company": "Dalmia Cement (Bharat) Limited",
+            "deadline": "09/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/c71e619a7376077f54a88586bfdabe4c"
+        },
+        "ICICI_Bank_13/10/2026": {
+            "company": "ICICI Bank",
+            "deadline": "13/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/7b438100aac3b5dd3da84880cd114e55"
+        },
+        "Fidelity_International_11/10/2026": {
+            "company": "Fidelity International",
+            "deadline": "11/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/5c597d3f548f7519502cd7d8a356ba65"
+        },
+        "A.O._Smith_10/10/2026": {
+            "company": "A.O. Smith",
+            "deadline": "10/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/af57cbae0c6a8b3c5dc10f6bef125adf"
         }
     },
     "notifications": {
@@ -593,6 +613,18 @@
         "SCIENAPTIC SYSTEMS Lab Allotment": {
             "title": "SCIENAPTIC SYSTEMS Lab Allotment",
             "summary": "\u2022 Reporting time: 5:30 PM"
+        },
+        "A.O. Smith Eligibility Updates": {
+            "title": "A.O. Smith Eligibility Updates",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Fidelity International MANDATORY FORM": {
+            "title": "Fidelity International MANDATORY FORM",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Tata Steel Limited (PPO) : INTERVIEWS - HR": {
+            "title": "Tata Steel Limited (PPO) : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
         }
     }
 }
