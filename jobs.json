@@ -269,6 +269,11 @@
             "company": "Natwest Group",
             "deadline": "26/08/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/b6a9807f72e8778a687a633603cbfd49"
+        },
+        "ZS_Associates_India_Pvt._Ltd._12/10/2026": {
+            "company": "ZS Associates India Pvt. Ltd.",
+            "deadline": "12/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/0291588901293e97fb8c4b5a59b3c18d"
         }
     },
     "notifications": {
@@ -638,6 +643,10 @@
         },
         "Schneider Electric Schneider Electric OA Information": {
             "title": "Schneider Electric Schneider Electric OA Information",
+            "summary": "HR Update (No summary generated)"
+        },
+        "GIZ (Gesellschaft f\u00fcr Internationale Zusammenarbeit) Mandatory Google Form Submission": {
+            "title": "GIZ (Gesellschaft f\u00fcr Internationale Zusammenarbeit) Mandatory Google Form Submission",
             "summary": "HR Update (No summary generated)"
         }
     }
