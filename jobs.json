@@ -294,6 +294,21 @@
             "company": "ICICI Bank",
             "deadline": "14/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/7b438100aac3b5dd3da84880cd114e55"
+        },
+        "Dr_Reddy\u2019s_Laboratories_14/10/2026": {
+            "company": "Dr Reddy\u2019s Laboratories",
+            "deadline": "14/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/85865c7a72567524181b0a7db86f74da"
+        },
+        "Tata_Motors_Ltd_15/10/2026": {
+            "company": "Tata Motors Ltd",
+            "deadline": "15/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/456c9620477ce28b706b05e53e59c4da"
+        },
+        "Dr_Reddy\u2019s_Laboratories_15/10/2026": {
+            "company": "Dr Reddy\u2019s Laboratories",
+            "deadline": "15/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/f14faf2c7b33b37971674e479e29f48f"
         }
     },
     "notifications": {
@@ -731,6 +746,22 @@
         },
         "ZS Associates India Pvt. Ltd. Pre-Placement Talk (PPT)": {
             "title": "ZS Associates India Pvt. Ltd. Pre-Placement Talk (PPT)",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Dr Reddy\u2019s Laboratories : INTERVIEWS - HR": {
+            "title": "Dr Reddy\u2019s Laboratories : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Tata Elxsi \u2013 TELIPORT Season 4": {
+            "title": "Tata Elxsi \u2013 TELIPORT Season 4",
+            "summary": "\u2022 All eligible students are hereby informed that Tata Elxsi has launched TELIPORT Season 4, an engineering case challenge offering opportunities to solve real-world problems across domains such as transportation, healthcare, energy, media, and communications.\n\u2022 Full-time opportunities: 100+ positions with CTC of up to \u20b910 LPA\n\u2022 - Natural language vehicle information using on-device SLM/LLM (VehicleGPT)\n\u2022 Important Dates\n\u2022 Registration Deadline: 23rd October 2026, 11:59 PM\n\u2022 Round 1 Submission Deadline: 24th October 2026, 11:59 PM\n\u2022 Registration Link:https://gradpartners.in/e/Tata-Elxsi-TELIPORT-Season-4-347\n\u2022 The problem statements for Round 1 will be accessible through the portal after registration. Students are encouraged to register early to get sufficient time to understand the problem\n\n... [Truncated]"
+        },
+        "NVIDIA Corporation OA Date": {
+            "title": "NVIDIA Corporation OA Date",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Scienaptic Systems Interview Shortlist \u2013 List 2": {
+            "title": "Scienaptic Systems Interview Shortlist \u2013 List 2",
             "summary": "HR Update (No summary generated)"
         }
     }
