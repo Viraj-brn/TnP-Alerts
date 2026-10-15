@@ -319,6 +319,11 @@
             "company": "Patronus Tradetech LLP",
             "deadline": "15/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/119ffb568a1cb97edba32b040d4da11e"
+        },
+        "ITC_Ltd_(India_Tobacco_Division)_26/08/2026": {
+            "company": "ITC Ltd (India Tobacco Division)",
+            "deadline": "26/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/680c8f8c3b40f8fa1917153d5ed337c4"
         }
     },
     "notifications": {
@@ -800,6 +805,10 @@
         },
         "Amgen Interview Shortlisting and Schedule": {
             "title": "Amgen Interview Shortlisting and Schedule",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Amgen PI": {
+            "title": "Amgen PI",
             "summary": "HR Update (No summary generated)"
         }
     }
