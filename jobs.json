@@ -334,6 +334,11 @@
             "company": "Akademika Lab Solutions",
             "deadline": "19/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/d66ee4d6c4951080d1d1295716d984d8"
+        },
+        "BlackNGreen_27/08/2026": {
+            "company": "BlackNGreen",
+            "deadline": "27/08/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/8317b73f596d2d03d2c454667523f0f7"
         }
     },
     "notifications": {
@@ -839,6 +844,14 @@
         },
         "Urban Company PI Updated Schedule": {
             "title": "Urban Company PI Updated Schedule",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Namekart OA Updates": {
+            "title": "Namekart OA Updates",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Reliance Industries Ltd. Interview Dates": {
+            "title": "Reliance Industries Ltd. Interview Dates",
             "summary": "HR Update (No summary generated)"
         }
     }
