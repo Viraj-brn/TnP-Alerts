@@ -379,6 +379,16 @@
             "company": "Mindseekers Technologies Pvt. Ltd.",
             "deadline": "25/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/4e5634905af32aaecbdd2f5446fb6f30"
+        },
+        "NVIDIA_Corporation_29/10/2026": {
+            "company": "NVIDIA Corporation",
+            "deadline": "29/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/bfbd98250b2221c41cf6d73dca185c0a"
+        },
+        "Recrivio_26/10/2026": {
+            "company": "Recrivio",
+            "deadline": "26/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/1d40d8ebb0a9d709c35983d82dff7bd3"
         }
     },
     "notifications": {
@@ -976,6 +986,22 @@
         },
         "Nation with Namo OA Instructions || 8:00 PM": {
             "title": "Nation with Namo OA Instructions || 8:00 PM",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Namekart GD selects": {
+            "title": "Namekart GD selects",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Namekart GD 2:30 pm": {
+            "title": "Namekart GD 2:30 pm",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Aditya Birla Group NOTICE REGARDING OA": {
+            "title": "Aditya Birla Group NOTICE REGARDING OA",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Urban Company Shortlisted Students for Round 2 PI": {
+            "title": "Urban Company Shortlisted Students for Round 2 PI",
             "summary": "HR Update (No summary generated)"
         }
     }
