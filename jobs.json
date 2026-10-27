@@ -404,6 +404,11 @@
             "company": "Recrivio",
             "deadline": "27/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/1d40d8ebb0a9d709c35983d82dff7bd3"
+        },
+        "Texas_Instruments_27/10/2026": {
+            "company": "Texas Instruments",
+            "deadline": "27/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/408ef3cb48fec4b2a1cdc67aa7b09970"
         }
     },
     "notifications": {
@@ -1081,6 +1086,18 @@
         },
         "Namekart Group Interview shortlist (domain sales)": {
             "title": "Namekart Group Interview shortlist (domain sales)",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Aditya Birla Group Lab Allotment and timings": {
+            "title": "Aditya Birla Group Lab Allotment and timings",
+            "summary": "\u2022 PFA the lab allotment for the ABG Group. Kindly reach the allotted lab by 5:45 PM.\n\u2022 Centre: BIT Mesra | View Attachment |"
+        },
+        "AppsForBharat : INTERVIEWS - Technical": {
+            "title": "AppsForBharat : INTERVIEWS - Technical",
+            "summary": "HR Update (No summary generated)"
+        },
+        "JSW Group Round 2": {
+            "title": "JSW Group Round 2",
             "summary": "HR Update (No summary generated)"
         }
     }
