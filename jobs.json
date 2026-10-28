@@ -434,6 +434,11 @@
             "company": "Tata Play Limited",
             "deadline": "29/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/11e21d3d55ac81b36b55236d09749529"
+        },
+        "Nestle_29/10/2026": {
+            "company": "Nestle",
+            "deadline": "29/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/baea4682360ba061e8bb7cf250c44b9e"
         }
     },
     "notifications": {
@@ -1195,6 +1200,18 @@
         },
         "Illuminati Consulting Pre-Placement Talk (PPT)": {
             "title": "Illuminati Consulting Pre-Placement Talk (PPT)",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Scienaptic Systems : INTERVIEWS - HR": {
+            "title": "Scienaptic Systems : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Reminder: AEGYTHON 2026 | Registration Closes on 6 November": {
+            "title": "Reminder: AEGYTHON 2026 | Registration Closes on 6 November",
+            "summary": "\u2022 This is the final reminder to register for AEGYTHON 2026, an AI-focused hackathon organised by AeglysAI, a US-based AI research company.\n\u2022 Additional Opportunity: A potential shortlist pathway through AeglysAI\n\u2022 Registration Deadline: 6 November 2026\n\u2022 Interested students are encouraged to register before the deadline and take advantage of this opportunity to showcase their technical and problem-solving skills.\n\u2022 Centre: BIT Mesra | | Visit Link"
+        },
+        "Ditto Pre-placement talk": {
+            "title": "Ditto Pre-placement talk",
             "summary": "HR Update (No summary generated)"
         }
     }
