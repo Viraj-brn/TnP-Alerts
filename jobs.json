@@ -479,6 +479,11 @@
             "company": "Tech Mahindra",
             "deadline": "31/10/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/92276a91086f4ae4dda8b8cd7d57bf5c"
+        },
+        "Intrinsic_Foundries_(IIOT_Innovation_Private_Limited)_31/10/2026": {
+            "company": "Intrinsic Foundries (IIOT Innovation Private Limited)",
+            "deadline": "31/10/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/daae8925b9957ed1f3e26835b1f8a8ab"
         }
     },
     "notifications": {
@@ -1344,6 +1349,10 @@
         },
         "Fidelity International Shortlist for OA": {
             "title": "Fidelity International Shortlist for OA",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Namekart SDE interview shortlist": {
+            "title": "Namekart SDE interview shortlist",
             "summary": "HR Update (No summary generated)"
         }
     }
