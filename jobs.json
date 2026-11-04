@@ -509,6 +509,16 @@
             "company": "SpaceFields Private Limited",
             "deadline": "14/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/fc4c4344011b3a4b76ecc52a69a49183"
+        },
+        "Super_Smelters_Limited_05/11/2026": {
+            "company": "Super Smelters Limited",
+            "deadline": "05/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/1165f255065f66b0f2b7f301fe8abdac"
+        },
+        "Blackmatter_Materials_05/11/2026": {
+            "company": "Blackmatter Materials",
+            "deadline": "05/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/d19ae8633cd5f6e9cdad2a8a1cfce542"
         }
     },
     "notifications": {
@@ -1482,6 +1492,26 @@
         },
         "Namekart SDE PI remainder || rescheduling": {
             "title": "Namekart SDE PI remainder || rescheduling",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Dr Reddy\u2019s Laboratories REGARDING PLACEMENT DRIVE": {
+            "title": "Dr Reddy\u2019s Laboratories REGARDING PLACEMENT DRIVE",
+            "summary": "HR Update (No summary generated)"
+        },
+        "TATA CONSUMER PRODUCT LIMITED GD SHORTLIST FOR TCPL": {
+            "title": "TATA CONSUMER PRODUCT LIMITED GD SHORTLIST FOR TCPL",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Aditya Birla Group SHORTLIST FOR PERSONAL INTERVIEWS CHEMICAL & CIVIL ENGG": {
+            "title": "Aditya Birla Group SHORTLIST FOR PERSONAL INTERVIEWS CHEMICAL & CIVIL ENGG",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Reliance Industries Ltd. : ASSESSMENT TEST - Technical": {
+            "title": "Reliance Industries Ltd. : ASSESSMENT TEST - Technical",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Tech Mahindra Online Assessment Details": {
+            "title": "Tech Mahindra Online Assessment Details",
             "summary": "HR Update (No summary generated)"
         }
     }
