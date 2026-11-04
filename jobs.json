@@ -494,6 +494,21 @@
             "company": "Assurant",
             "deadline": "03/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/a131fb6bd1313ba3f0c99bf6e0c63ef1"
+        },
+        "Blackmatter_Materials_04/11/2026": {
+            "company": "Blackmatter Materials",
+            "deadline": "04/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/d19ae8633cd5f6e9cdad2a8a1cfce542"
+        },
+        "ITC_Ltd._04/11/2026": {
+            "company": "ITC Ltd.",
+            "deadline": "04/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/18d558f77d7cb20bcb9aaf2108c5e19a"
+        },
+        "SpaceFields_Private_Limited_14/11/2026": {
+            "company": "SpaceFields Private Limited",
+            "deadline": "14/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/fc4c4344011b3a4b76ecc52a69a49183"
         }
     },
     "notifications": {
@@ -1443,6 +1458,18 @@
         },
         "Namekart Remainder Interview": {
             "title": "Namekart Remainder Interview",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Vishakha Group : ASSESSMENT TEST - Technical": {
+            "title": "Vishakha Group : ASSESSMENT TEST - Technical",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Mindseekers Technologies Pvt. Ltd. : INTERVIEWS - HR": {
+            "title": "Mindseekers Technologies Pvt. Ltd. : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Nation with Namo : INTERVIEWS - HR": {
+            "title": "Nation with Namo : INTERVIEWS - HR",
             "summary": "HR Update (No summary generated)"
         }
     }
