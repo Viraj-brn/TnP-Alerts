@@ -519,6 +519,11 @@
             "company": "Blackmatter Materials",
             "deadline": "05/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/d19ae8633cd5f6e9cdad2a8a1cfce542"
+        },
+        "Techture_Structures_Pvt._Ltd_06/11/2026": {
+            "company": "Techture Structures Pvt. Ltd",
+            "deadline": "06/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/877a0586cc8809589a2cbf8f3ee2ee85"
         }
     },
     "notifications": {
@@ -1512,6 +1517,10 @@
         },
         "Tech Mahindra Online Assessment Details": {
             "title": "Tech Mahindra Online Assessment Details",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Reliance Industries Ltd. Interview Shortlisting with timings": {
+            "title": "Reliance Industries Ltd. Interview Shortlisting with timings",
             "summary": "HR Update (No summary generated)"
         }
     }
