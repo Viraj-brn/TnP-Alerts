@@ -534,6 +534,11 @@
             "company": "AppsForBharat",
             "deadline": "06/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/c2aa58df4f01d0052ab7799198e5856c"
+        },
+        "ITC_Ltd._10/11/2026": {
+            "company": "ITC Ltd.",
+            "deadline": "10/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/c23872d5789230f2065d37217d2c1e92"
         }
     },
     "notifications": {
@@ -1603,6 +1608,14 @@
         },
         "Tata Play Limited URGENT UPDATE: Tata Play Limited - Change in Placement Schedule": {
             "title": "Tata Play Limited URGENT UPDATE: Tata Play Limited - Change in Placement Schedule",
+            "summary": "HR Update (No summary generated)"
+        },
+        "ITC PPT Timing": {
+            "title": "ITC PPT Timing",
+            "summary": "\u2022 Candidates are instructed to reach the Seminar Hall 2 in RND before time for the PPT.\n\u2022 Attendance at the PPT is mandatory for all shortlisted students, no requests for exemption or excuse for absence will be entertained. Any unauthorized absence may invite serious consequences."
+        },
+        "ITC Ltd. ITC OA Postponed": {
+            "title": "ITC Ltd. ITC OA Postponed",
             "summary": "HR Update (No summary generated)"
         }
     }
