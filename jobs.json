@@ -544,6 +544,16 @@
             "company": "ATLBattery Technology (India) Private Limited",
             "deadline": "25/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/6219bfb33000b0d84255990190ffe226"
+        },
+        "Unlox_Academy_16/11/2026": {
+            "company": "Unlox Academy",
+            "deadline": "16/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/b6f12424624947025ae97ea73c1eadab"
+        },
+        "Envision_Energy_17/11/2026": {
+            "company": "Envision Energy",
+            "deadline": "17/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/144b549124502e28347e2bfc392872aa"
         }
     },
     "notifications": {
@@ -1697,6 +1707,10 @@
         },
         "Fidelity International : INTERVIEWS - HR": {
             "title": "Fidelity International : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Tech Mahindra OA Shortlist": {
+            "title": "Tech Mahindra OA Shortlist",
             "summary": "HR Update (No summary generated)"
         }
     }
