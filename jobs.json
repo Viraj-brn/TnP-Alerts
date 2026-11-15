@@ -564,6 +564,16 @@
             "company": "Vetty",
             "deadline": "16/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/da5d168c444cb6863a301828f923cbd4"
+        },
+        "Pin_Click_17/11/2026": {
+            "company": "Pin Click",
+            "deadline": "17/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/4a805ccbf640121d2106db859876d788"
+        },
+        "Infosys_08/07/2026": {
+            "company": "Infosys",
+            "deadline": "08/07/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/874c625900e53b70da72a0f6d826ebcc"
         }
     },
     "notifications": {
@@ -1721,6 +1731,10 @@
         },
         "Tech Mahindra OA Shortlist": {
             "title": "Tech Mahindra OA Shortlist",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Vetty Criteria Change - Everback is allowed": {
+            "title": "Vetty Criteria Change - Everback is allowed",
             "summary": "HR Update (No summary generated)"
         }
     }
