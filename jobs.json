@@ -574,6 +574,16 @@
             "company": "Infosys",
             "deadline": "08/07/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/874c625900e53b70da72a0f6d826ebcc"
+        },
+        "Schneider_Electric_15/11/2026": {
+            "company": "Schneider Electric",
+            "deadline": "15/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/f81ef33a32e45e11badb54c480f627ff"
+        },
+        "Microland_Limited_17/11/2026": {
+            "company": "Microland Limited",
+            "deadline": "17/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/cdbd0498a22ee02286f31e9300c8a499"
         }
     },
     "notifications": {
@@ -1735,6 +1745,18 @@
         },
         "Vetty Criteria Change - Everback is allowed": {
             "title": "Vetty Criteria Change - Everback is allowed",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Reliance Industries Ltd. : INTERVIEWS - HR": {
+            "title": "Reliance Industries Ltd. : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Tata Motors Ltd OA Shortlist": {
+            "title": "Tata Motors Ltd OA Shortlist",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Microland Limited Short Deadline": {
+            "title": "Microland Limited Short Deadline",
             "summary": "HR Update (No summary generated)"
         }
     }
