@@ -584,6 +584,26 @@
             "company": "Microland Limited",
             "deadline": "17/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/cdbd0498a22ee02286f31e9300c8a499"
+        },
+        "Lindstrom_India_Services_Pvt_Ltd_19/11/2026": {
+            "company": "Lindstrom India Services Pvt Ltd",
+            "deadline": "19/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/a8af3bf8095f5f4d7c07b076310a1d75"
+        },
+        "SS_Rail_Tech_18/11/2026": {
+            "company": "SS Rail Tech",
+            "deadline": "18/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/f9df2b1a693636ea835c8a0827ce34d0"
+        },
+        "Pin_Click_18/11/2026": {
+            "company": "Pin Click",
+            "deadline": "18/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/4a805ccbf640121d2106db859876d788"
+        },
+        "Envision_Energy_20/11/2026": {
+            "company": "Envision Energy",
+            "deadline": "20/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/144b549124502e28347e2bfc392872aa"
         }
     },
     "notifications": {
@@ -1757,6 +1777,14 @@
         },
         "Microland Limited Short Deadline": {
             "title": "Microland Limited Short Deadline",
+            "summary": "HR Update (No summary generated)"
+        },
+        "QSS Global LLP Placement Opportunity \u2013 QSS Global LLP": {
+            "title": "QSS Global LLP Placement Opportunity \u2013 QSS Global LLP",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Infosys additional list": {
+            "title": "Infosys additional list",
             "summary": "HR Update (No summary generated)"
         }
     }
