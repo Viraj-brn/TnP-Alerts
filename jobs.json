@@ -629,6 +629,11 @@
             "company": "NxtWave",
             "deadline": "20/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/f77af2f447671afd566f570f2546fa12"
+        },
+        "Texas_Instruments_20/11/2026": {
+            "company": "Texas Instruments",
+            "deadline": "20/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/5452981d1face71734ff97e2175b8914"
         }
     },
     "notifications": {
@@ -1842,6 +1847,18 @@
         },
         "Aenexz Tech : INTERVIEWS - HR": {
             "title": "Aenexz Tech : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "NxtWave Mandatory Registration Link": {
+            "title": "NxtWave Mandatory Registration Link",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Tech Mahindra Shortlist for Interview": {
+            "title": "Tech Mahindra Shortlist for Interview",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Assurant OA test || Dates": {
+            "title": "Assurant OA test || Dates",
             "summary": "HR Update (No summary generated)"
         }
     }
