@@ -644,6 +644,21 @@
             "company": "Elip AI",
             "deadline": "20/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/832c2f072d9d53c2f0dc6afbc4e25e9e"
+        },
+        "Square_Yards_22/11/2026": {
+            "company": "Square Yards",
+            "deadline": "22/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/dd15ab3bf59e09a876ee8f6f23d032fe"
+        },
+        "Pranav_Techone_Pvt_Ltd_22/11/2026": {
+            "company": "Pranav Techone Pvt Ltd",
+            "deadline": "22/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/ecb1b672b15b312ccd43e57cad8a522d"
+        },
+        "Virasa_Organic_20/11/2026": {
+            "company": "Virasa Organic",
+            "deadline": "20/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/5a9d0c85187f57c2891f1e4e72546c85"
         }
     },
     "notifications": {
@@ -1882,6 +1897,14 @@
         "MANDATORY REGISTRATION \u2013 ELIP AI": {
             "title": "MANDATORY REGISTRATION \u2013 ELIP AI",
             "summary": "\u2022 All interested students are hereby informed that Elip AI is offering the following internship opportunities:\n\u2022 Apply Link: https://dashboard.tryelip.ai/jobs/NhK81\n\u2022 Apply Link: https://elip.cc/PsnWr\n\u2022 Registration through the respective application links is mandatory for students interested in these opportunities. Students are advised to complete their applications at the earliest."
+        },
+        "Assurant Updated OA list": {
+            "title": "Assurant Updated OA list",
+            "summary": "HR Update (No summary generated)"
+        },
+        "HPCL \u2013 UnPink Founding Fellowship 30+1 | Applications Open": {
+            "title": "HPCL \u2013 UnPink Founding Fellowship 30+1 | Applications Open",
+            "summary": "\u2022 The Training and Placement Division is pleased to inform all students about the launch of UnPink Founding Fellowship 30+1, an initiative by Hindustan Petroleum Corporation Limited (HPCL) aimed at challenging stereotypes, breaking limiting labels, and recognising individual capabilities beyond societal assumptions.\n\u2022 Centre: BIT Mesra | | Visit Link"
         }
     }
 }
