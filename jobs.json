@@ -684,6 +684,21 @@
             "company": "LTCV Credit",
             "deadline": "25/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/4d0ed77b57035deb833ef805e40ef3c6"
+        },
+        "Porter_26/11/2026": {
+            "company": "Porter",
+            "deadline": "26/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/50d1484a85176bf86632ad731dec2a18"
+        },
+        "IndiaMART_26/11/2026": {
+            "company": "IndiaMART",
+            "deadline": "26/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/cbebe170430b59a09135636c67e06dbc"
+        },
+        "Elip_AI_05/12/2026": {
+            "company": "Elip AI",
+            "deadline": "05/12/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/832c2f072d9d53c2f0dc6afbc4e25e9e"
         }
     },
     "notifications": {
@@ -2013,6 +2028,46 @@
         },
         "Tata Play Limited : INTERVIEWS - HR": {
             "title": "Tata Play Limited : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Boeing Lab Allotment for Boeing": {
+            "title": "Boeing Lab Allotment for Boeing",
+            "summary": "HR Update (No summary generated)"
+        },
+        "PORTER INTERNSHIP APPLICATION": {
+            "title": "PORTER INTERNSHIP APPLICATION",
+            "summary": "\u2022 Students who have received a 6-month internship offer from Aenexes and also wish to apply for Porter are hereby informed to fill out the Google Form shared below.\n\u2022 Please ensure that all the required details are filled in correctly along with your updated resume link.\n\u2022 Note: This form is exclusively for students who have received a 6-month offer from Aenexes and are interested in applying for Porter as well.\n\u2022 Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdLTzeyhdAoAa5sKxu9N-esUzSjdhv6KVhjQJY2loNzc11OEw/viewform?usp=sharing&ouid=109906139892247291852"
+        },
+        "JSW Group PI shortlist and dates": {
+            "title": "JSW Group PI shortlist and dates",
+            "summary": "HR Update (No summary generated)"
+        },
+        "ELIP AI \u2013 REGISTRATION DEADLINE EXTENDED": {
+            "title": "ELIP AI \u2013 REGISTRATION DEADLINE EXTENDED",
+            "summary": "\u2022 This is to inform all eligible students that the registration deadline for Elip AI Software Internship Opportunities has been extended till 5th December 2026.\n\u2022 1. Apply through the \u00a0T&P Portal.\n\u2022 2. Complete the mandatory registration through the application links shared by the company.\n\u2022 Note: Completion of both registrations is mandatory for consideration. Students are advised to complete the process before the revised deadline."
+        },
+        "Toorey Resume Access Update": {
+            "title": "Toorey Resume Access Update",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Assurant Interview shortlist": {
+            "title": "Assurant Interview shortlist",
+            "summary": "HR Update (No summary generated)"
+        },
+        "SpaceFields Private Limited Resume Compliance": {
+            "title": "SpaceFields Private Limited Resume Compliance",
+            "summary": "\u2022 The following candidates are hereby informed that their resumes are either missing from the application portal or their Google Drive sharing permissions are not set to \u201cAnyone with the link \u2013 Viewer\u201d.\n\u2022 Despite an earlier reminder, the required corrections are still pending. All concerned candidates are strictly instructed to upload their resumes (if missing) and/or update the sharing permissions to ensure public view access by today, 5:00 PM sharp.\n\u2022 Please note that failure to comply within the stipulated deadline will lead to removal from the recruitment process and may also invite disciplinary action from the Training & Placement Cell.\n\u2022 List of Candidates:"
+        },
+        "Microland Limited Shortlist for Round-2": {
+            "title": "Microland Limited Shortlist for Round-2",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Super Smelters Limited : INTERVIEWS - Technical": {
+            "title": "Super Smelters Limited : INTERVIEWS - Technical",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Vishakha Group : INTERVIEWS - HR": {
+            "title": "Vishakha Group : INTERVIEWS - HR",
             "summary": "HR Update (No summary generated)"
         }
     }
