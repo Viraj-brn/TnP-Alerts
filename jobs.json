@@ -699,6 +699,16 @@
             "company": "Elip AI",
             "deadline": "05/12/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/832c2f072d9d53c2f0dc6afbc4e25e9e"
+        },
+        "Chemey_Mechatronics_26/11/2026": {
+            "company": "Chemey Mechatronics",
+            "deadline": "26/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/52fc5fc7787a7bd1d9de5df83c933c48"
+        },
+        "Polycab_India_27/11/2026": {
+            "company": "Polycab India",
+            "deadline": "27/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/43f454ed43913f6a2742f15661aef9c3"
         }
     },
     "notifications": {
@@ -2068,6 +2078,14 @@
         },
         "Vishakha Group : INTERVIEWS - HR": {
             "title": "Vishakha Group : INTERVIEWS - HR",
+            "summary": "HR Update (No summary generated)"
+        },
+        "NxtWave Technical Interview Round 2 (TR2) Shortlist": {
+            "title": "NxtWave Technical Interview Round 2 (TR2) Shortlist",
+            "summary": "HR Update (No summary generated)"
+        },
+        "Assurant Interview Rescheduling": {
+            "title": "Assurant Interview Rescheduling",
             "summary": "HR Update (No summary generated)"
         }
     }
