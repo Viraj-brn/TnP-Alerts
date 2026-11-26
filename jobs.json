@@ -709,6 +709,21 @@
             "company": "Polycab India",
             "deadline": "27/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/43f454ed43913f6a2742f15661aef9c3"
+        },
+        "Asyvyas_Solutions_01/12/2026": {
+            "company": "Asyvyas Solutions",
+            "deadline": "01/12/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/1384153c84910a7a10d562da7e46e459"
+        },
+        "Intellipaat_30/11/2026": {
+            "company": "Intellipaat",
+            "deadline": "30/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/15896afa9ea2071c36b20d5a120105f5"
+        },
+        "PlanetSpark_30/11/2026": {
+            "company": "PlanetSpark",
+            "deadline": "30/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/6417ad4df031cf297f46d72e6ba776ea"
         }
     },
     "notifications": {
@@ -2087,6 +2102,14 @@
         "Assurant Interview Rescheduling": {
             "title": "Assurant Interview Rescheduling",
             "summary": "HR Update (No summary generated)"
+        },
+        "Boeing Shortlist and Resume for CS": {
+            "title": "Boeing Shortlist and Resume for CS",
+            "summary": "HR Update (No summary generated)"
+        },
+        "BOEING LAB ALLOTMENT CHANGES": {
+            "title": "BOEING LAB ALLOTMENT CHANGES",
+            "summary": "Please click the link above to read the full notice."
         }
     }
 }
