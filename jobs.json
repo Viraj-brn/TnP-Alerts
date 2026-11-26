@@ -724,6 +724,11 @@
             "company": "PlanetSpark",
             "deadline": "30/11/2026",
             "link": "https://tp.bitmesra.co.in/job/notice/6417ad4df031cf297f46d72e6ba776ea"
+        },
+        "AWL_Agri_Business_Ltd._28/11/2026": {
+            "company": "AWL Agri Business Ltd.",
+            "deadline": "28/11/2026",
+            "link": "https://tp.bitmesra.co.in/job/notice/63c2ba38c5ee9ba0f89ea8b1b6aaf7e3"
         }
     },
     "notifications": {
@@ -2110,6 +2115,18 @@
         "BOEING LAB ALLOTMENT CHANGES": {
             "title": "BOEING LAB ALLOTMENT CHANGES",
             "summary": "Please click the link above to read the full notice."
+        },
+        "Texas Instruments Registration and Mock Assessment": {
+            "title": "Texas Instruments Registration and Mock Assessment",
+            "summary": "HR Update (No summary generated)"
+        },
+        "ASSURANT UPDATED INTERVIEW LIST": {
+            "title": "ASSURANT UPDATED INTERVIEW LIST",
+            "summary": "\u2022 Please find below the updated list of students shortlisted for the Assurant interview.\n\u2022 Kindly ensure that you are available at the scheduled interview time.\n\u2022 Centre: BIT Mesra | | Visit Link"
+        },
+        "Boeing Timeline of PIs": {
+            "title": "Boeing Timeline of PIs",
+            "summary": "HR Update (No summary generated)"
         }
     }
 }
